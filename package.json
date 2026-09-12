@@ -1,0 +1,8 @@
+{
+  "name": "zero-university-clone",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "py -3 -m http.server 4173"
+  }
+}
